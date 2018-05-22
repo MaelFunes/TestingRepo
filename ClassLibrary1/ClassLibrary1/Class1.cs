@@ -11,6 +11,6 @@ namespace ClassLibrary1
         
     {
         int pedo;
-        private int PITO;
+        private string PITO;
     }
 }
